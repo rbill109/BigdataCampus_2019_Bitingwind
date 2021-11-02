@@ -32,7 +32,7 @@
 전반적인 시각화를 주도하였으며 유효 풍속 도출에 필요한 변수 계산 및 건물 샘플링을 담당하였음
 
 ### Presentation
-[발표 자료](2019 서울시 빅캠공모전_충정로칼바람_분석결과서.pdf)
+[발표 자료](2019_서울시_빅캠공모전_충정로칼바람_분석결과서.pdf)
 
 ### References
 [참고 문헌](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201810648287497&dbt=NART)
